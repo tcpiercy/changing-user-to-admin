@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines changing a user to a domain admin with Active Directory Users and Administrators.<br />
 
 
 
@@ -11,8 +11,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Wireshark
-- Powershell
+- Active Directory
 
 <h2>Operating Systems Used </h2>
 

@@ -27,7 +27,7 @@ This tutorial outlines changing a user to a domain admin with Active Directory U
 
 <h2>Configuration Steps</h2>
 
-<a href="[https://www.youtube.com/watch?v=bTMG993DjBA](https://www.youtube.com/watch?v=7-Ejc2N6New)" target="_blank">
+<a href="https://www.youtube.com/watch?v=7-Ejc2N6New" target="_blank">
   <img src="https://raw.githubusercontent.com/tcpiercy/creating-org-units/main/active_directory_with_blue_play_button.png" width="400">
 </a>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.

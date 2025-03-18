@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/tcpiercy/creating-org-units/main/active%20directory%20snip.png" width="400">
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
+<h1>Active Directory-Changing User into Domain Admin</h1>
 This tutorial outlines changing a user to a domain admin with Active Directory Users and Administrators.<br />
 
 

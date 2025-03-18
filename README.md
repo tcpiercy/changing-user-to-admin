@@ -24,6 +24,6 @@ This tutorial outlines changing a user to a domain admin with Active Directory U
 <a href="https://www.youtube.com/watch?v=7-Ejc2N6New" target="_blank">
   <img src="https://raw.githubusercontent.com/tcpiercy/creating-org-units/main/active_directory_with_blue_play_button.png" width="400">
 </a>
-
+In the video demonstration above, I used Active Directory to change a user from a regular user to a domain admin. This grants them additional permissions used later on in this lab.
 
 

@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/tcpiercy/creating-org-units/main/active%20directory%20snip.png" width="400">
 </p>
   <h1>Active Directory-Org Unit Creation</h1>
-This tutorial outlines the creation of Org Units within Active Directory.<br />
+This tutorial outlines the creation of Org Units within Active Directory. This lab as a whole will go over various activities that can be done within Active Directory, to be split up in the next repositories.<br />
 
 
 
